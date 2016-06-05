@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="helloworld:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="helloworld.jar">
+      <element id="module-output" name="helloworld" />
+      <element id="artifact" artifact-name="scala-sdk-2_11_6" />
+      <element id="artifact" artifact-name="org_apache_spark_spark-core_2_11_1_6_1" />
+    </root>
+  </artifact>
+</component>

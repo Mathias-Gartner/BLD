@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scala-sdk-2_11_6">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="scala-sdk-2_11_6.jar">
+      <element id="library" level="project" name="scala-sdk-2.11.6" />
+    </root>
+  </artifact>
+</component>
